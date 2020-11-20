@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ExamenU1U2/static/css/main.17ed4a0c.chunk.css",
+    "main.js": "/ExamenU1U2/static/js/main.4c3da316.chunk.js",
+    "main.js.map": "/ExamenU1U2/static/js/main.4c3da316.chunk.js.map",
+    "runtime-main.js": "/ExamenU1U2/static/js/runtime-main.71781d22.js",
+    "runtime-main.js.map": "/ExamenU1U2/static/js/runtime-main.71781d22.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/ExamenU1U2/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7dfb179d.chunk.js": "/ExamenU1U2/static/js/2.7dfb179d.chunk.js",
+    "static/js/2.7dfb179d.chunk.js.map": "/ExamenU1U2/static/js/2.7dfb179d.chunk.js.map",
+    "static/js/3.df3bbd1d.chunk.js": "/ExamenU1U2/static/js/3.df3bbd1d.chunk.js",
+    "static/js/3.df3bbd1d.chunk.js.map": "/ExamenU1U2/static/js/3.df3bbd1d.chunk.js.map",
+    "index.html": "/ExamenU1U2/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/ExamenU1U2/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.17ed4a0c.chunk.css.map": "/ExamenU1U2/static/css/main.17ed4a0c.chunk.css.map",
+    "static/js/2.7dfb179d.chunk.js.LICENSE.txt": "/ExamenU1U2/static/js/2.7dfb179d.chunk.js.LICENSE.txt",
+    "static/media/logoEscuela.3bc33aef.PNG": "/ExamenU1U2/static/media/logoEscuela.3bc33aef.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71781d22.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.7dfb179d.chunk.js",
+    "static/css/main.17ed4a0c.chunk.css",
+    "static/js/main.4c3da316.chunk.js"
+  ]
+}
